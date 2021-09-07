@@ -1,3 +1,3 @@
 # MIPS-VHDL
 
-[PracticaLab2_ARQ2021.pdf](https://github.com/Amaikegop/Cooperativa-de-Recuperadores-Urbanos/files/7118593/PracticaLab2_ARQ2021.pdf)
+![MIPS VHDL](https://user-images.githubusercontent.com/83136892/132278254-00bc43dc-58cf-4ad7-a33e-04071d56281d.png)

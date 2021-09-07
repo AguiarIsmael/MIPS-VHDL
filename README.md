@@ -1,3 +1,4 @@
 # MIPS-VHDL
 
-![MIPS VHDL](https://user-images.githubusercontent.com/83136892/132278325-2539ac6e-d285-42a0-b66e-b26fce795602.png)
+![MIPS VHDL](https://user-images.githubusercontent.com/83136892/132278465-c393161f-ca4e-4230-85b5-13a67220da6e.png)
+
